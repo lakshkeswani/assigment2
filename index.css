@@ -1,0 +1,98 @@
+#laksh {
+	width: 190px;
+	border-radius: 5%;
+	float: right;
+	height: 170px;
+
+}
+
+table#header{
+	width: 70%;
+	text-align: center;
+	color:red;
+       
+
+}
+
+div#body{
+	text-align: center;
+	width: 80%;
+	padding-left: 10%;
+	font-family: sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	font-weight: bold;
+}
+
+
+
+h1.head-spacing {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-family: Lucida Sans Unicode;
+}
+
+body{
+	background-color: #EBEFF0;
+	/*EEEEEE;*/
+
+}
+
+h1#contact-head{
+	font-weight: lighter;
+	font-size: 35px;
+	font-family: Lucida Console;
+	padding-top: 2px;
+}
+
+input{
+	width: 250px;
+	height: 40px;
+}
+
+#submitMessage{
+	background-color:  #166FE5;
+	font-size: 20px;
+	color: white;
+}
+
+div.cv{
+	width: auto;
+	float: left;
+	background-color: skyblue;
+	margin-top: 30px;
+	margin-left: 30px;
+	padding: 10px;
+	
+}
+
+div.cv-details{
+	width: 70%;
+	float: right;
+	background-color: skyblue;
+	margin-right: 100px;
+	margin-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+div#education{
+	float: right;
+	width: 40%;
+}
+
+div#project{
+	float: left;
+	width: 40%;
+}
+
+tr{
+	text-align: left;
+}
